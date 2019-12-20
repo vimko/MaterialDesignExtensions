@@ -285,12 +285,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MaterialDesignExtensions\MaterialDesignExtensions.csproj">
-      <Project>{809632da-5eb8-4ee8-ad71-57239701550c}</Project>
-      <Name>MaterialDesignExtensions</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="icon_on_background.ico">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
